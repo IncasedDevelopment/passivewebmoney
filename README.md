@@ -1,5 +1,6 @@
 # PassiveWebMoney 
-<img src="./.resources/.assets/PWM_logo_small.png?raw=true" width="96"> - **Leave a star ⭐ if you like this project 🙂 thank you.**
+<img src="./.resources/.assets/PWM_logo_small.png?raw=true" width="96">
+Leave a star ⭐ if you like this project 🙂 thank you.
 
 **|Easy automatic multi app passive income project with Webdasboard, Auto Updater and Proxy Support :dollar::satisfied::+1:|**
 
