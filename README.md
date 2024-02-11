@@ -101,15 +101,7 @@ We've launched a Discord server! It's a space for you to share your experiences,
 
 ## Support the Projects 🫶
 
-Your contributions are vital in helping to sustain the development of open-source projects and tools made freely available to everyone. If you find value in my work and wish to show your support, kindly consider making a donation:
-
-### Cryptocurrency Wallets
-
-- **Bitcoin (BTC):** `1EzBrKjKyXzxydSUNagAP8XLeRzBTxfHcg`
-- **Ethereum (ETH):** `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee`
-- **Solana (SOL):** `6kUAWW8q5169qnUJdxxLsNMPpaKPvbUSmryKDYTb9epn`
-- **Polygon (MATIC):** `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee`
-- **BNB (Binance Smart Chain):** `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee`
+Your contributions are vital in helping to sustain the development of open-source projects and tools made freely available to everyone. If you find value in my work and wish to show your support, kindly consider making a donation on the [Discord](https://discord.gg/VYUWZnnxgt).
 
 Your support, no matter how small, is enormously appreciated and directly fuels ongoing and future developments. Thank you for your generosity! 🙏
 
@@ -122,3 +114,4 @@ The author shall not be retained liable for any damages suffered by any user of 
 
 ## :hash: License
 [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+Thanks to [MRColorR](https://github.com/MRColorR)
