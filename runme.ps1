@@ -1738,7 +1738,7 @@ Just call fn_checkDependencies
 This is a new function that has not been tested yet and currently is not really used in the script 
 #>
 function fn_checkDependencies() {
-    colorprint "GREEN" "MONEY4BAND AUTOMATIC GUIDED SETUP v$script:SCRIPT_VERSION"
+    colorprint "GREEN" "PASSIVEWEBMONEY AUTOMATIC GUIDED SETUP v$script:SCRIPT_VERSION"
     check_project_updates
     colorprint "GREEN" "---------------------------------------------- "
     colorprint "MAGENTA" "Join our Discord community for updates, help, and discussions: $DS_PROJECT_SERVER_URL"
@@ -1771,7 +1771,7 @@ This function has been tested until v 2.0.0. The new version has not been tested
 #>
 function mainmenu {
     Clear-Host
-    colorprint "GREEN" "MONEY4BAND AUTOMATIC GUIDED SETUP v$script:SCRIPT_VERSION"
+    colorprint "GREEN" "PASSIVEWEBMONEY AUTOMATIC GUIDED SETUP v$script:SCRIPT_VERSION"
     check_project_updates
     adaptLimits
     colorprint "GREEN" "---------------------------------------------- "

@@ -1576,7 +1576,7 @@ fn_resetDockerCompose(){
 # Function that will check the necerrary dependencies for the script to run
 fn_checkDependencies(){
     clear
-    colorprint "GREEN" "MONEY4BAND AUTOMATIC GUIDED SETUP v${SCRIPT_VERSION}"
+    colorprint "GREEN" "PASSIVEWEBMONEY AUTOMATIC GUIDED SETUP v${SCRIPT_VERSION}"
     check_project_updates
     colorprint "GREEN" "---------------------------------------------- "
     colorprint "MAGENTA" "Join our Discord community for updates, help, and discussions: ${DS_PROJECT_SERVER_URL}"
@@ -1598,7 +1598,7 @@ fn_checkDependencies(){
 ### Main Menu ##
 mainmenu() {
     clear
-    colorprint "GREEN" "MONEY4BAND AUTOMATIC GUIDED SETUP v${SCRIPT_VERSION}"
+    colorprint "GREEN" "PASSIVEWEBMONEY AUTOMATIC GUIDED SETUP v${SCRIPT_VERSION}"
     check_project_updates
     fn_adaptLimits
     colorprint "GREEN" "---------------------------------------------- "

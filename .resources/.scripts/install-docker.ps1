@@ -25,7 +25,7 @@ function InstallDocker {
     Restart-Computer -Confirm
 }
 
-Write-Output "WARNING: You are using an old version of the Money4Band project. Download the latest version from https://github.com/IncasedDevelopment/passivewebmoney."
+Write-Output "WARNING: You are using an old version of the PASSIVEWEBMONEY project. Download the latest version from https://github.com/IncasedDevelopment/passivewebmoney."
 Write-Output "This script is now considered deprecated and is provided only for backward compatibility."
 
 $wsl = Get-WindowsOptionalFeature -FeatureName Microsoft-Windows-Subsystem-Linux -Online
